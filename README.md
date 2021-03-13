@@ -21,7 +21,7 @@ To change bindings or add animations
 1. Make custom hand animation
 2. Open "ASL Simplified 1" controller in the Animator tab for either Left or Right hand
 
-![Animator](https://user-images.githubusercontent.com/68105767/111051948-bc160b00-840b-11eb-8e12-c5c7aacf27b0.PNG)
+![Animator1](https://user-images.githubusercontent.com/68105767/111052667-ca672580-8411-11eb-88c9-0e28b5c08e53.PNG)
 
 3. Find which binding you want to add your new animation to
   - notation of bindings:
@@ -33,7 +33,7 @@ To change bindings or add animations
 
 4. Select binding and place new animation in Inspector
 
-![Inspector](https://user-images.githubusercontent.com/68105767/111052511-2d57bd00-8410-11eb-80db-fee98fb90c75.PNG)
+![Inspector](https://user-images.githubusercontent.com/68105767/111052687-e965b780-8411-11eb-9231-9cab29d15cdc.PNG)
 
 5. Finally enable the transition to your animation by unmuting it
 
