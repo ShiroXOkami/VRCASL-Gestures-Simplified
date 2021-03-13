@@ -3,7 +3,7 @@ Basically plug and play
 
 Huge Thanks to [@Priestess](https://github.com/shrine-priestess) for the inspiration. All credit goes to her, all i did was make it simpler and more user friendly.
 
-Must be using https://github.com/benaclejames/VRCThumbParams with https://melonwiki.xyz/#/ in order to function properly
+Must be using [@benaclejames](https://github.com/benaclejames/VRCThumbParams) mod with [Melonloader](https://melonwiki.xyz/#/) in order to function properly
 
 ## To add to Avatar
 1. Import Package
