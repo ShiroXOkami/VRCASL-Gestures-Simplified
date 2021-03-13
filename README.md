@@ -1,7 +1,7 @@
 # ASL-Gestures-Simplified
 Basically plug and play
 
-Huge Thanks to https://github.com/shrine-priestess for coming up with the idea. All credit goes to her, all i did was make it simpler and more user friendly.
+Huge Thanks to https://github.com/shrine-priestess for the inspiration. All credit goes to her, all i did was make it simpler and more user friendly.
 
 Must be using https://github.com/benaclejames/VRCThumbParams with https://melonwiki.xyz/#/ in order to function properly
 
