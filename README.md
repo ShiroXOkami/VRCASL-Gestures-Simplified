@@ -5,7 +5,7 @@ Huge Thanks to https://github.com/shrine-priestess for helping out and inspiring
 
 Must be using https://github.com/benaclejames/VRCThumbParams with https://melonwiki.xyz/#/ in order to function properly
 
-To add to Avatar
+##To add to Avatar
 1. Import Package
 2. Place "ASL Simplified 1" into Gesture layer
 
@@ -17,7 +17,7 @@ To add to Avatar
 
 4. UPLOAD!
 
-To change bindings or add animations
+##To change bindings or add animations
 1. Make custom hand animation
 2. Open "ASL Simplified 1" controller in the Animator tab for either Left or Right hand
 
