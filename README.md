@@ -7,7 +7,7 @@ Must be using [@benaclejames](https://github.com/benaclejames/VRCThumbParams) mo
 
 ## To add to Avatar
 1. Import Package
-2. Place "ASL Simplified 1" into Gesture layer
+2. Place "ASL Simplified 1" into the "Gesture" playable layer
 
 ![Base Layers](https://user-images.githubusercontent.com/68105767/111051703-08604b80-840a-11eb-839a-acfe5705122b.PNG)
 
