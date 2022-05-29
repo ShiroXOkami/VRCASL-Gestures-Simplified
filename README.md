@@ -3,11 +3,11 @@ Basically plug and play
 
 Huge Thanks to [@Priestess](https://github.com/shrine-priestess) for the inspiration. All credit goes to her, all i did was make it simpler and more user friendly.
 
-Must be using [@benaclejames](https://github.com/benaclejames/VRCThumbParams) mod with [Melonloader](https://melonwiki.xyz/#/) in order to function properly
+Must be using [@I5UCC](https://github.com/I5UCC/VRCThumbParamsOSC) OSC in order to function properly
 
 ## To add to Avatar
 1. Import Package
-2. Place "ASL Simplified 1" into the "Gesture" playable layer
+2. Place "ASL Simplified" into the "Gesture" playable layer
 
 ![Base Layers](https://user-images.githubusercontent.com/68105767/111051703-08604b80-840a-11eb-839a-acfe5705122b.PNG)
 
@@ -19,7 +19,7 @@ Must be using [@benaclejames](https://github.com/benaclejames/VRCThumbParams) mo
 
 ## To change bindings or add animations
 1. Make custom hand animation
-2. Open "ASL Simplified 1" controller in the Animator tab for either Left or Right hand
+2. Open "ASL Simplified" controller in the Animator tab for either Left or Right hand
 
 ![Animator1](https://user-images.githubusercontent.com/68105767/111052667-ca672580-8411-11eb-88c9-0e28b5c08e53.PNG)
 
