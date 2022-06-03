@@ -1,45 +1,62 @@
 # ASL-Gestures-Simplified
 Basically plug and play
 
-Huge Thanks to [@Priestess](https://github.com/shrine-priestess) for the inspiration. All credit goes to her, all i did was make it simpler and more user friendly.
+Huge Thanks to all my friends for the inspiration and to all the people who use this in game ^~^
 
 Must be using [@I5UCC](https://github.com/I5UCC/VRCThumbParamsOSC) OSC in order to function properly
 
 ## To add to Avatar
 1. Import Package
-2. Place "ASL Simplified" into the "Gesture" playable layer
+2. Choose and place "ASL Simplified Index" or "ASL Simplified Oculus" 
+into the "Gesture" playable layer
 
-![Base Layers](https://user-images.githubusercontent.com/68105767/111051703-08604b80-840a-11eb-839a-acfe5705122b.PNG)
+![image_2022-06-02_194028904](https://user-images.githubusercontent.com/68105767/171770429-b13b7044-ace3-484c-8ed3-b587b391e65d.png)
 
 3. If you don't have a menu for avatar place "Blank menu" and "ASL Params" into the Expressions dropdown, otherwise add Parameters to existing controller
 
-![Expressions](https://user-images.githubusercontent.com/68105767/111051761-5ffeb700-840a-11eb-9c44-d77a07f733d8.PNG)
+![image_2022-06-02_194139998](https://user-images.githubusercontent.com/68105767/171770529-9119e63e-841d-49bf-9fcd-df6ce088a94c.png)
+
+4. UPLOAD!
+
+## To add to Existing Avatar
+1. Import Package
+2. Merge "ASL Simplified (XX)" to existing Gesture Layer Controller using [AV3 Manager](https://github.com/VRLabs/Avatars-3.0-Manager)
+
+![image_2022-06-02_200001671](https://user-images.githubusercontent.com/68105767/171772168-41f523b3-3b7a-494d-98b2-e7b66a9f8377.png)
+
+3. Add these Integers to existing Parameters list (CASE SENSITIVE!)
+  - LeftThumb
+  - RightThumb
+
+![image_2022-06-02_200253106](https://user-images.githubusercontent.com/68105767/171772425-4ad9fdef-b7a6-4363-88c0-0bcbf65ec998.png)
 
 4. UPLOAD!
 
 ## To change bindings or add animations
 1. Make custom hand animation
-2. Open "ASL Simplified" controller in the Animator tab for either Left or Right hand
+2. Open "ASL Simplified (XX)" controller in the Animator tab for either Left or Right hand
 
-![Animator1](https://user-images.githubusercontent.com/68105767/111052667-ca672580-8411-11eb-88c9-0e28b5c08e53.PNG)
+![image_2022-06-02_194423284](https://user-images.githubusercontent.com/68105767/171770771-531a100e-f4da-4848-8b6b-9f867595acc6.png)
 
 3. Find which binding you want to add your new animation to
-  - notation of bindings:
+  - Notation of bindings:
     - G#= hand gesture value
     - T#= thumb param value
     - GW#= trigger pull value
 
-![Notation](https://user-images.githubusercontent.com/68105767/111052459-c508db80-840f-11eb-85dc-188c73d5edee.PNG)
+![image_2022-06-02_194826054](https://user-images.githubusercontent.com/68105767/171771148-46048212-70ae-4245-bc26-4d3b2f274eda.png)
 
 4. Select binding and place new animation in Inspector
 
-![Inspector](https://user-images.githubusercontent.com/68105767/111052687-e965b780-8411-11eb-9231-9cab29d15cdc.PNG)
+![image_2022-06-02_195125455](https://user-images.githubusercontent.com/68105767/171771392-233d4856-3ff8-4183-be2c-848d49573a4b.png)
+
+![image_2022-06-02_195043282](https://user-images.githubusercontent.com/68105767/171771344-e1b6fb30-09a6-4240-84b9-0352977f8f07.png)
 
 5. Finally enable the transition to your animation by unmuting it
 
-![Transition](https://user-images.githubusercontent.com/68105767/111052563-bbcc3e80-8410-11eb-8dc5-a5576f97f35b.PNG)
+![image_2022-06-02_195239092](https://user-images.githubusercontent.com/68105767/171771497-2782073d-e540-4744-839c-2beb796a1f52.png)
 
-![Unmute](https://user-images.githubusercontent.com/68105767/111052565-c1298900-8410-11eb-85c4-d76e319d79bf.PNG)
+![image_2022-06-02_195356158](https://user-images.githubusercontent.com/68105767/171771603-1980dfca-ae39-41f0-9826-7a7d93ba3212.png)
 
 6. Repeat steps 3-5 for opposite hand
-7. Done! Upload!
+7. UPLOAD!
