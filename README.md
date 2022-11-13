@@ -4,6 +4,7 @@ Basically plug and play
 Huge Thanks to all my friends for the inspiration and to all the people who use this in game ^~^
 
 Highly recommend using [@benaclejames](https://github.com/benaclejames/OVRThumbParams) to automatically run with SteamVR.
+
 Alternative method using [@I5UCC](https://github.com/I5UCC/VRCThumbParamsOSC) OSC program.
 
 ## To add to Avatar
