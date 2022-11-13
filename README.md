@@ -3,7 +3,8 @@ Basically plug and play
 
 Huge Thanks to all my friends for the inspiration and to all the people who use this in game ^~^
 
-Must be using [@I5UCC](https://github.com/I5UCC/VRCThumbParamsOSC) OSC in order to function properly
+Highly recommend using [@benaclejames](https://github.com/benaclejames/OVRThumbParams) to automatically run with SteamVR.
+Alternative method using [@I5UCC](https://github.com/I5UCC/VRCThumbParamsOSC) OSC program.
 
 ## To add to Avatar
 1. Import Package
