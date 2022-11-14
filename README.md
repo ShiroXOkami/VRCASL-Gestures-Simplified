@@ -35,7 +35,7 @@ into the "Gesture" playable layer
 4. UPLOAD!
 
 ## To change bindings or add animations
-1. Make custom hand animation
+1. Make custom hand animation or use one of the included extras
 2. Open "ASL Simplified (XX)" controller in the Animator tab for either Left or Right hand
 
 ![image_2022-06-02_194423284](https://user-images.githubusercontent.com/68105767/171770771-531a100e-f4da-4848-8b6b-9f867595acc6.png)
