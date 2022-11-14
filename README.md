@@ -3,9 +3,11 @@ Basically plug and play
 
 Huge Thanks to all my friends for the inspiration and to all the people who use this in game ^~^
 
+A ThumbParameters OSC must be running for ASLGS to function properly. 
+
 Highly recommend using [@benaclejames](https://github.com/benaclejames/OVRThumbParams) method to automatically run with SteamVR.
 
-Alternative method using [@I5UCC](https://github.com/I5UCC/VRCThumbParamsOSC) OSC program.
+Alternative method using [@I5UCC](https://github.com/I5UCC/VRCThumbParamsOSC) standalone OSC program.
 
 ## To add to Avatar
 1. Import Package
