@@ -7,12 +7,9 @@ A ThumbParameters OSC must be running for ASLGS to function properly.
 
 Highly recommend using [@benaclejames](https://github.com/benaclejames/OVRThumbParams) method to automatically run with SteamVR.
 
-Alternative method using [@I5UCC](https://github.com/I5UCC/VRCThumbParamsOSC) standalone OSC program.
-
-## To add to Avatar
+## To add to Blank Slate Avatar
 1. Import Package
-2. Choose and place "ASL Simplified Index" or "ASL Simplified Oculus" 
-into the "Gesture" playable layer
+2. Choose and place "ASL Simplified Index" into the "Gesture" playable layer
 
 ![image_2022-06-02_194028904](https://user-images.githubusercontent.com/68105767/171770429-b13b7044-ace3-484c-8ed3-b587b391e65d.png)
 
@@ -24,7 +21,7 @@ into the "Gesture" playable layer
 
 ## To add to Existing Avatar
 1. Import Package
-2. Merge "ASL Simplified (XX)" to existing Gesture Layer Controller using [AV3 Manager](https://github.com/VRLabs/Avatars-3.0-Manager)
+2. Merge "ASL Simplified Index" to existing Gesture Layer Controller using [AV3 Manager](https://github.com/VRLabs/Avatars-3.0-Manager)
 
 ![image_2022-06-02_200001671](https://user-images.githubusercontent.com/68105767/171772168-41f523b3-3b7a-494d-98b2-e7b66a9f8377.png)
 
@@ -38,7 +35,7 @@ into the "Gesture" playable layer
 
 ## To change bindings or add animations
 1. Make custom hand animation or use one of the included extras
-2. Open "ASL Simplified (XX)" controller in the Animator tab for either Left or Right hand
+2. Open "ASL Simplified Index" controller in the Animator tab for either Left or Right hand
 
 ![image_2022-06-02_194423284](https://user-images.githubusercontent.com/68105767/171770771-531a100e-f4da-4848-8b6b-9f867595acc6.png)
 
