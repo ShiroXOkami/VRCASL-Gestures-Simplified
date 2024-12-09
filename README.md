@@ -7,7 +7,7 @@ Install [@benaclejames/OVRThumbParams](https://github.com/benaclejames/OVRThumbP
 
 For Oculus Touch support go to [@I5UCC](https://github.com/I5UCC/VRC-ASL_Gestures)'s repo.
 
-## To add to any Avatar with no existing Gesture layer
+## To add to Avatar without existing Gesture layer
 1. Import Package
 2. Choose and place "ASL Simplified Index" into the "Gesture" playable layer
 
