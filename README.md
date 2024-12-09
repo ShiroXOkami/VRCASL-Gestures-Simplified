@@ -1,11 +1,11 @@
 # ASL-Gestures-Simplified
-Basically plug and play
+Basically plug and play. ASLGS was created with IRL handshapes in mind and each hand is fully independant. No combo gestures for any handshape. 
 
 Huge Thanks to all my friends for the inspiration and to all the people who use this in game ^~^
 
-A ThumbParameters OSC must be running for ASLGS to function properly. 
+Install [@benaclejames/OVRThumbParams](https://github.com/benaclejames/OVRThumbParams) to automatically run the OSC program on SteamVR launch. This version is designed and based around the OVRTP program and NOT compatible with I5UCC's OSC program.  
 
-Highly recommend using [@benaclejames](https://github.com/benaclejames/OVRThumbParams) method to automatically run with SteamVR.
+For Oculus Touch support go to [@I5UCC](https://github.com/I5UCC/VRC-ASL_Gestures)'s repo.
 
 ## To add to Blank Slate Avatar
 1. Import Package
