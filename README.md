@@ -3,7 +3,7 @@ Basically plug and play. ASLGS was created with IRL handshapes in mind and each 
 
 Huge Thanks to all my friends for the inspiration and to all the people who use this in game ^~^
 
-Install [@benaclejames/OVRThumbParams](https://github.com/benaclejames/OVRThumbParams) to automatically run the OSC program on SteamVR launch. This version is designed and based around the OVRTP program and NOT compatible with I5UCC's OSC program.  
+Install [@benaclejames/OVRThumbParams](https://github.com/benaclejames/OVRThumbParams) to automatically run the OSC program on SteamVR launch. This version is designed and based around the OVRTP program. Compatibility with I5UCC's OSC program is unknown.  
 
 For Oculus Touch support go to [@I5UCC](https://github.com/I5UCC/VRC-ASL_Gestures)'s repo.
 
