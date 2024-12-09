@@ -19,7 +19,7 @@ For Oculus Touch support go to [@I5UCC](https://github.com/I5UCC/VRC-ASL_Gesture
 
 4. UPLOAD!
 
-## To add to Existing Avatar
+## To add to Avatar with and existing Gesture layer
 1. Import Package
 2. Merge "ASL Simplified Index" to existing Gesture Layer Controller using [AV3 Manager](https://github.com/VRLabs/Avatars-3.0-Manager)
 
